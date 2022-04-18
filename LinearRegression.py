@@ -27,8 +27,8 @@ class LinearRegression:
         return beta_0, beta_other
 
     
-    def predict(self, x_new, beta_0, beta_others):
-        return beta_0 + sum([beta_others[j]* x_new[j] for j in range(len(beta_others))])
+    def predict(self, x_new, beta_0, beta_other):
+        return beta_0 + sum([beta_other[j]* x_new[j] for j in range(len(beta_other))])
 
     
     def initialize_params(self, n):
