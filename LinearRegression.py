@@ -12,8 +12,8 @@ import random
 class LinearRegression:
     def __init__(self):
         """
-        X = [[x01, ..., x0n], [x11, ..., x1n], ... [xm1, ..., xmn]]
-        y = [y0, y1, ..., ym]
+        X = [[x11, ..., x1n], ... [xm1, ..., xmn]]
+        y = [y1, ..., ym]
         """
         self.X = None
         self.y = None
