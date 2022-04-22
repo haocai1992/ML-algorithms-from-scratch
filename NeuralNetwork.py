@@ -1,7 +1,7 @@
 #   Neural network with:
-#   - 2 inputs
-#   - a hidden layer with 2 neurons (h1, h2)
-#   - an output layer with 1 neuron (o1)
+#   - a input layer with 2 features (x1, x2)
+#   - a hidden layer with 2 neurons (h1, h2) with Relu activation
+#   - an output layer with 1 neuron (o1) with sigmoid activation
 #   - activation function: sigmoid function (can also be ReLU)
 #   - output layer function: sigmoid function (can also be SoftMax)
 #   - loss function: MSE (can also be cross-entropy)
