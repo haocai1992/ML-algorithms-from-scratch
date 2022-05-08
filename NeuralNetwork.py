@@ -25,6 +25,7 @@
 # https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
 # https://www.youtube.com/watch?v=w8yWXqWQYmU
 # https://www.adeveloperdiary.com/data-science/deep-learning/neural-network-with-softmax-in-python/
+# https://victorzhou.com/blog/intro-to-neural-networks/
 
 import numpy as np
 
