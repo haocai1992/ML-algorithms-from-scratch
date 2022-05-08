@@ -2,6 +2,7 @@
 # References:
 # https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
 # https://www.youtube.com/watch?v=w8yWXqWQYmU
+# https://victorzhou.com/blog/intro-to-neural-networks/
 
 #   Neural network with:
 #   - an input layer with 784 features
